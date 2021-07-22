@@ -56,3 +56,6 @@ Discord Server: https://discord.gg/wGzzz6aGst
 Email: valvenewsMega@gmail.com
 
 Discord Bot: https://discord.com/oauth2/authorize?client_id=831599254589800510&permissions=4294967295&scope=bot
+
+Website: http://valvenewsMega.github.io/valvenewsMega/
+
