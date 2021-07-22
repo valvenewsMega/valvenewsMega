@@ -1,7 +1,45 @@
 # valvenewsMega
+
 valvenewsMega
 
-All the photo's are in this repo!
+![valvenewsMega](https://valvenewsmega.github.io/valvenewsMega/valvenewsMega.png)
+
+valvenewsMegaDeepfried
+
+![valvenewsMegaDeepfried](https://valvenewsmega.github.io/valvenewsMega/valvenewsMegaDeepfried.png)
+
+valvenewsMegaRGB
+
+![valvenewsMegaRGB](https://valvenewsmega.github.io/valvenewsMega/valvenewsMegaRGB.png)
+
+valvenewsMegaTriggered
+
+![valvenewsMegaTriggered](https://valvenewsmega.github.io/valvenewsMega/valvenewsMegaTriggered.png)
+
+valvenewsMegaWoozy
+
+![valvenewsMegaWoozy](https://valvenewsmega.github.io/valvenewsMega/valvenewsMegaWoozy.png)
+
+valvenewsNT
+
+![valvenewsNT](https://valvenewsmega.github.io/valvenewsMega/valvenewsNT.png)
+
+valvenewsNTriggered
+
+![valvenewsNTriggered](https://valvenewsmega.github.io/valvenewsMega/valvenewsNTriggered.png)
+
+valvenewsmegaShrek
+
+![valvenewsmegaShrek](https://valvenewsmega.github.io/valvenewsMega/valvenewsmegaShrek.png)
+
+valvenewsmegaUpsidedown
+
+![valvenewsmegaUpsidedown](https://valvenewsmega.github.io/valvenewsMega/valvenewsmegaUpsidedown.png)
+
+StarValvenewsmegarainbow
+
+![StarValvenewsmegarainbow](https://valvenewsmega.github.io/valvenewsMega/StarValvenewsmegarainbow.png)
+
 
 Social Media's
 
@@ -18,4 +56,3 @@ Discord Server: https://discord.gg/wGzzz6aGst
 Email: valvenewsMega@gmail.com
 
 Discord Bot: https://discord.com/oauth2/authorize?client_id=831599254589800510&permissions=4294967295&scope=bot
-
