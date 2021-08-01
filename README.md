@@ -1,47 +1,47 @@
 # valvenewsMega
 
-valvenewsMega
+## valvenewsMega
 
 ![valvenewsMega](https://valvenewsmega.github.io/valvenewsMega/valvenewsMega.png)
 
-valvenewsMegaDeepfried
+## valvenewsMegaDeepfried
 
 ![valvenewsMegaDeepfried](https://valvenewsmega.github.io/valvenewsMega/valvenewsMegaDeepfried.png)
 
-valvenewsMegaRGB
+## valvenewsMegaRGB
 
 ![valvenewsMegaRGB](https://valvenewsmega.github.io/valvenewsMega/valvenewsMegaRGB.png)
 
-valvenewsMegaTriggered
+## valvenewsMegaTriggered
 
 ![valvenewsMegaTriggered](https://valvenewsmega.github.io/valvenewsMega/valvenewsMegaTriggered.png)
 
-valvenewsMegaWoozy
+## valvenewsMegaWoozy
 
 ![valvenewsMegaWoozy](https://valvenewsmega.github.io/valvenewsMega/valvenewsMegaWoozy.png)
 
-valvenewsNT
+## valvenewsNT
 
 ![valvenewsNT](https://valvenewsmega.github.io/valvenewsMega/valvenewsNT.png)
 
-valvenewsNTriggered
+## valvenewsNTriggered
 
 ![valvenewsNTriggered](https://valvenewsmega.github.io/valvenewsMega/valvenewsNTriggered.png)
 
-valvenewsmegaShrek
+## valvenewsmegaShrek
 
 ![valvenewsmegaShrek](https://valvenewsmega.github.io/valvenewsMega/valvenewsmegaShrek.png)
 
-valvenewsmegaUpsidedown
+## valvenewsmegaUpsidedown
 
 ![valvenewsmegaUpsidedown](https://valvenewsmega.github.io/valvenewsMega/valvenewsmegaUpsidedown.png)
 
-StarValvenewsmegarainbow
+## StarValvenewsmegarainbow
 
 ![StarValvenewsmegarainbow](https://valvenewsmega.github.io/valvenewsMega/StarValvenewsmegarainbow.png)
 
 
-Social Media's
+## Social Medias
 
 Twitter: https://twitter.com/valvenewsMega
 
