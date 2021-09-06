@@ -20,6 +20,12 @@
 
 ![valvenewsMegaWoozy](https://valvenewsmega.github.io/valvenewsMega/valvenewsMegaWoozy.png)
 
+## valvenewsMegaWholesome
+![valvenewsMegaWholesome](https://valvenewsmega.github.io/valvenewsMega/valvenewsMegaWholesome.png)
+
+## valvenewsMegaGlitched
+![valvenewsMegaGlitched](https://valvenewsmega.github.io/valvenewsMega/valvenewsMegaGlitched.png)
+
 ## valvenewsNT
 
 ![valvenewsNT](https://valvenewsmega.github.io/valvenewsMega/valvenewsNT.png)
