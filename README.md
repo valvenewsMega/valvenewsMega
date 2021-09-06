@@ -20,14 +20,6 @@
 
 ![valvenewsMegaWoozy](https://valvenewsmega.github.io/valvenewsMega/valvenewsMegaWoozy.png)
 
-## valvenewsMegaWholesome
-
-![valvenewsMegaWholesome](https://valvenewsmega.github.io/valvenewsMega/Unofficials/valvenewsMegaWholesome.png)
-
-## valvenewsMegaGlitched
-
-![valvenewsMegaGlitched](https://valvenewsmega.github.io/valvenewsMega/Unofficials/valvenewsMegaGlitched.png)
-
 ## valvenewsNT
 
 ![valvenewsNT](https://valvenewsmega.github.io/valvenewsMega/valvenewsNT.png)
@@ -47,6 +39,17 @@
 ## StarValvenewsmegarainbow
 
 ![StarValvenewsmegarainbow](https://valvenewsmega.github.io/valvenewsMega/StarValvenewsmegarainbow.png)
+
+
+# valvenewsMega Unofficials
+
+## valvenewsMegaWholesome
+
+![valvenewsMegaWholesome](https://valvenewsmega.github.io/valvenewsMega/Unofficials/valvenewsMegaWholesome.png)
+
+## valvenewsMegaGlitched
+
+![valvenewsMegaGlitched](https://valvenewsmega.github.io/valvenewsMega/Unofficials/valvenewsMegaGlitched.png)
 
 
 ## Social Medias
